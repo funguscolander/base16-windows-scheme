@@ -4,8 +4,6 @@ The Windows colour schemes throughout the years, made for Chris Kempson's [base1
 
 The Windows High Contrast theme combines the NT dark palette with the 95 bright palette. This gives the highest contrast combination between all dark and bright colours except for bright white, which is slighter dimmer than the NT bright white.
 
-For the true Windows-emulating experience be sure to use the Consolas font with letter spacing set to -1, and unbolden your prompt and dire___ so it just uses the refular font!
-
 ![Colour palettes](img/preview.png)
 
 ## Low Contrast Colour Removal
