@@ -19,11 +19,11 @@ The 95 palette with the dark and light colours inverted.
 
 ### Default NT Colours
 This palette was used in Windows 2000, XP, Vista, 7, 8, and 10 (up to build 16256).
-![Windows NT default terminal colours](img/terminalNTdefault.png)
+![Windows NT default terminal colours](img/terminalntdefault.png)
 
 ### Light NT Colours
 The NT palette with the dark and light colours inverted.
-![Reduced Windows NT base16 terminal colours](img/terminalNTlight.png)
+![Reduced Windows NT base16 terminal colours](img/terminalntlight.png)
 
 ### Default 10 Colours
 This palette has been in use from Windows 10 build 16257 onward.
