@@ -11,32 +11,32 @@ The Base16 framework replaces dark colours with their bright counterparts in dar
 
 ### Default 95 Colours
 This palette was used in Windows 95, 98, and ME.
-[//]: # (![Windows 95 default terminal colours](terminal95default.png))
+[//]: # (![Windows 95 default terminal colours](img/terminal95default.png))
 
 ### Light 95 Colours
 The 95 palette with the dark and light colours inverted.
-[//]: # (![Reduced Windows 95 base16 terminal colours](terminal95light.png))
+[//]: # (![Reduced Windows 95 base16 terminal colours](img/terminal95light.png))
 
 ### Default NT Colours
 This palette was used in Windows 2000, XP, Vista, 7, 8, and 10 (up to build 16256).
-[//]: # (![Windows NT default terminal colours](terminalNTdefault.png))
+[//]: # (![Windows NT default terminal colours](img/terminalNTdefault.png))
 
 ### Light NT Colours
 The NT palette with the dark and light colours inverted.
-[//]: # (![Reduced Windows NT base16 terminal colours](terminalNTlight.png))
+[//]: # (![Reduced Windows NT base16 terminal colours](img/terminalNTlight.png))
 
 ### Default 10 Colours
 This palette has been in use from Windows 10 build 16257 onward.
-[//]: # (![Windows 10 default terminal colours](terminal10default.png))
+[//]: # (![Windows 10 default terminal colours](img/terminal10default.png))
 
 ### Light 10 Colours
 The 10 palette with the dark and light colours inverted.
-[//]: # (![Reduced Windows 10 base16 terminal colours](terminal10light.png))
+[//]: # (![Reduced Windows 10 base16 terminal colours](img/terminal10light.png))
 
 ### Default High Contrast Colours
 This theme has never been used by Microsoft for a version of Windows, it is just a combination of the NT dark palette and the 95 bright palette.
-[//]: # (![Windows High Contrast default terminal colours](terminalhcdefault.png))
+[//]: # (![Windows High Contrast default terminal colours](img/terminalhcdefault.png))
 
 ### Light High Contrast Colours
 The High Contrast palette with the dark and light colours inverted.
-[//]: # (![Reduced Windows High Contrast base16 terminal colours](terminalhclight.png))
+[//]: # (![Reduced Windows High Contrast base16 terminal colours](img/terminalhclight.png))
