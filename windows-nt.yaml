@@ -1,0 +1,18 @@
+scheme: "Windows NT"
+author: "Fergus Collins (https://github.com/C-Fergus)"
+base00: "000000" # black
+base01: "800080" # magenta
+base02: "008080" # cyan
+base03: "808080" # bright black
+base04: "000080" # blue
+base05: "c0c0c0" # white
+base06: "800000" # red
+base07: "ffffff" # bright white
+base08: "ff0000" # bright red
+base09: "808000" # yellow
+base0A: "ffff00" # bright yellow
+base0B: "00ff00" # bright green
+base0C: "00ffff" # bright cyan
+base0D: "0000ff" # bright blue
+base0E: "ff00ff" # bright magenta
+base0F: "008000" # green

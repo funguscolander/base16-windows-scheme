@@ -1,0 +1,18 @@
+scheme: "Windows 10"
+author: "Fergus Collins (https://github.com/C-Fergus)"
+base00: "0c0c0c" # black
+base01: "881798" # magenta
+base02: "3a96dd" # cyan
+base03: "767676" # bright black
+base04: "0037da" # blue
+base05: "cccccc" # white
+base06: "c50f1f" # red
+base07: "f2f2f2" # bright white
+base08: "e74856" # bright red
+base09: "c19c00" # yellow
+base0A: "f9f1a5" # bright yellow
+base0B: "16c60c" # bright green
+base0C: "61d6d6" # bright cyan
+base0D: "3b78ff" # bright blue
+base0E: "b4009e" # bright magenta
+base0F: "13a10e" # green
