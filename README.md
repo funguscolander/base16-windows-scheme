@@ -1,7 +1,9 @@
 # Base16 Windows Scheme
 The Windows colour schemes throughout the years, made for Chris Kempson's [base16](https://github.com/chriskempson/base16) theme building architecture. For the true Windows-emulating experience be sure to use the Consolas font with letter spacing set to -1 and unbolden your prompt!
 
-Windows NT provides the highest contrast of the generations, with Windows 95 suffering from low contrast blacks and Windows 10 suffering from low contrast literally everywhere else. The Windows 10 palette is not recommended and is only included for completeness. The High Contrast theme combines the NT dark palette with the 95 bright palette giving the highest contrast combination between all dark and bright colours except for bright white, which is slighter dimmer than the NT bright white.
+Windows NT provides the highest contrast of the generations, with Windows 95 suffering from low contrast blacks and Windows 10 suffering from low contrast literally everywhere else. The Windows 10 theme is not recommended and is only included for completeness.
+
+The High Contrast theme combines the NT dark palette with the 95 bright palette giving the highest contrast combination between all dark and bright colours except for bright white, which is slighter dimmer than the NT bright white.
 
 ![Colour palettes](img/preview.png)
 
