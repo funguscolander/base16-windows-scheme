@@ -1,12 +1,12 @@
 scheme: "Windows 95"
 author: "Fergus Collins (https://github.com/C-Fergus)"
 base00: "000000" # black
-base01: "a800a8" # magenta
-base02: "00a8a8" # cyan
+base01: "1C1C1C" # darkish black
+base02: "383838" # brightish black
 base03: "545454" # bright black
-base04: "0000a8" # blue
+base04: "7e7e7e" # darker white
 base05: "a8a8a8" # white
-base06: "a80000" # red
+base06: "d2d2d2" # middle white
 base07: "fcfcfc" # bright white
 base08: "fc5454" # bright red
 base09: "a85400" # yellow

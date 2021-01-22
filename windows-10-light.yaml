@@ -1,12 +1,12 @@
 scheme: "Windows 10 Light"
 author: "Fergus Collins (https://github.com/C-Fergus)"
 base00: "f2f2f2" # bright white
-base01: "b4009e" # bright magenta
-base02: "61d6d6" # bright cyan
+base01: "e5e5e5" # brightish white
+base02: "d9d9d9" # darkish white
 base03: "cccccc" # white
-base04: "3b78ff" # bright blue
+base04: "ababab" # brighter black
 base05: "767676" # bright black
-base06: "e74856" # bright red
+base06: "414141" # middle black
 base07: "0c0c0c" # black
 base08: "c50f1f" # red
 base09: "f9f1a5" # bright yellow

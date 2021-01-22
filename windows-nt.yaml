@@ -1,12 +1,12 @@
 scheme: "Windows NT"
 author: "Fergus Collins (https://github.com/C-Fergus)"
 base00: "000000" # black
-base01: "800080" # magenta
-base02: "008080" # cyan
+base01: "2a2a2a" # darkish black
+base02: "555555" # brightish black
 base03: "808080" # bright black
-base04: "000080" # blue
+base04: "a1a1a1" # darker white
 base05: "c0c0c0" # white
-base06: "800000" # red
+base06: "e0e0e0" # middle white
 base07: "ffffff" # bright white
 base08: "ff0000" # bright red
 base09: "808000" # yellow

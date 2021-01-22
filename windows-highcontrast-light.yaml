@@ -1,12 +1,12 @@
 scheme: "Windows High Contrast Light"
 author: "Fergus Collins (https://github.com/C-Fergus)"
 base00: "fcfcfc" # bright white
-base01: "fc54fc" # bright magenta
-base02: "54fcfc" # bright cyan
+base01: "e8e8e8" # brightish white
+base02: "d4d4d4" # darkish white
 base03: "c0c0c0" # white
-base04: "5454fc" # bright blue
+base04: "7e7e7e" # brighter black
 base05: "545454" # bright black
-base06: "fc5454" # bright red
+base06: "2a2a2a" # middle black
 base07: "000000" # black
 base08: "800000" # red
 base09: "fcfc54" # bright yellow
